@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "haohansmp:block/metallurgy/front",
+    "front": "haohansmp:block/metallurgy/front",
+    "back": "haohansmp:block/metallurgy/back",
+    "left": "haohansmp:block/metallurgy/left",
+    "right": "haohansmp:block/metallurgy/right",
+    "top": "haohansmp:block/metallurgy/top",
+    "bottom": "haohansmp:block/metallurgy/bottom"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [16, 16, 16],
+      "faces": {
+        "north": { "texture": "#front", "uv": [0, 0, 12, 16] },
+        "south": { "texture": "#back", "uv": [0, 0, 12, 16] },
+        "west": { "texture": "#left", "uv": [0, 0, 12, 16] },
+        "east": { "texture": "#right", "uv": [0, 0, 12, 16] },
+        "up": { "texture": "#top", "uv": [0, 0, 12, 12] },
+        "down": { "texture": "#bottom", "uv": [0, 0, 12, 12] }
+      }
+    }
+  ],
+  "display": {
+    "fixed": {
+      "translation": [0, 0, 0],
+      "rotation": [0, 0, 0],
+      "scale": [1, 1, 1]
+    }
+  }
+}
