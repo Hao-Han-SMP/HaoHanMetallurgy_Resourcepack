@@ -1,0 +1,46 @@
+{
+  "variants": {
+    "orientation=down_east": {
+      "model": "haohansmp:block/metallurgy_inactive",
+      "y": 90
+    },
+    "orientation=down_north": {
+      "model": "haohansmp:block/metallurgy_inactive"
+    },
+    "orientation=down_south": {
+      "model": "haohansmp:block/metallurgy_inactive",
+      "y": 180
+    },
+    "orientation=down_west": {
+      "model": "haohansmp:block/metallurgy_inactive",
+      "y": 270
+    },
+    "orientation=up_east": {
+      "model": "haohansmp:block/metallurgy",
+      "y": 90
+    },
+    "orientation=up_north": {
+      "model": "haohansmp:block/metallurgy"
+    },
+    "orientation=up_south": {
+      "model": "haohansmp:block/metallurgy",
+      "y": 180
+    },
+    "orientation=up_west": {
+      "model": "haohansmp:block/metallurgy",
+      "y": 270
+    },
+    "orientation=east_up": {
+      "model": "minecraft:block/jigsaw"
+    },
+    "orientation=north_up": {
+      "model": "minecraft:block/jigsaw"
+    },
+    "orientation=south_up": {
+      "model": "minecraft:block/jigsaw"
+    },
+    "orientation=west_up": {
+      "model": "minecraft:block/jigsaw"
+    }
+  }
+}

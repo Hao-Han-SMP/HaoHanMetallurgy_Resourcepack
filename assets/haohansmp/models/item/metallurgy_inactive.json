@@ -1,6 +1,6 @@
 {
   "textures": {
-    "1": "haohansmp:block/metallurgy/fire",
+    "1": "haohansmp:block/metallurgy/fire_inactive",
     "2": "haohansmp:block/metallurgy/stone",
     "3": "haohansmp:block/metallurgy/bottom",
     "4": "haohansmp:block/metallurgy/top",
