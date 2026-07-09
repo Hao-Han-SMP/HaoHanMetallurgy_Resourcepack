@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "haohansmp:item/copper_slag_pickaxe"
+  }
+}
